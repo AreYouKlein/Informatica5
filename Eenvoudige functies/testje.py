@@ -1,3 +1,2 @@
-x = int(input('nummer: '))
-
-print('ik wil' + str(x) ,'bananen')
+from math import sqrt
+print(sqrt(4))

@@ -79,9 +79,4 @@ elif x > y and d > e:
     print('aanvaller verliest 0 legers, verdediger verliest 2 legers')
 else:
     print('aanvaller verliest 1 leger, verdediger verliest 1 leger')
-
-print(x)
-print(y)
-print(d)
-print(e)
-
+########################################################################################################################
